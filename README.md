@@ -12,5 +12,5 @@ A windows computer with python installed (webdriver used currently only compatib
 
 In command prompt type:
 
-pip install selenium
+    pip install selenium
 Open the python IDLE and run 'seleniumvocab.py'
